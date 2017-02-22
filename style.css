@@ -1,0 +1,63 @@
+body
+			{
+				background-color: #DDDDDD;
+		}
+			#header
+			{
+				width: 770px;
+				font-family: fantasy, bold;
+			}
+			a
+			{
+				color: black;
+				font-family: fantasy;
+				text-decoration: none;
+			}
+			 #content
+			{
+				font-family: fantasy;
+				font-size: 45px;
+				padding: 10px;
+				padding-bottom: 30px;
+				margin-left: auto;
+				margin-right: auto;
+				width:750px;;
+				text-align: center;
+			}
+			#content h2 {
+		margin-top: 70px;
+			}
+			#content p {
+			}
+			#navigation
+			{
+				margin-left: auto;
+				margin-right: auto;
+				width:770px;;
+				background-repeat: repeat;
+				text-align: center;
+			}
+			ul {
+				list-style-type: none;
+				float: right;
+			}
+			li {
+				display: inline;
+				padding: 14px 16px;
+				text-decoration: none;
+			}
+			li a:visited {
+				text-decoration: none;
+				outline 0;
+			}
+			img
+			{
+				width: 60%;
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+			}
+			p
+			{
+				font-size: 20px;
+			}
